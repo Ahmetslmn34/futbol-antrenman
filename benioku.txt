@@ -1,0 +1,13 @@
+FUTBOL ANTRENMANI OYUNU
+
+w,a,s,d tuşlarını kullanarak ilerleyen bir futbol antrenmanı yapan karakter oyunu amacı engellere çarpmadan 
+
+futbol toplarını toplayarak skor yapmak ve kaleye ulaşmak.
+
+NASIL OYNANIR? 
+
+w= karakteri ileri yönde hareket ettirir.
+s= karakteri geri yönde hareket ettirir.
+a= karakteri sol yönde hareket ettirir.
+d= karakteri sağ yönde hareket ettirir.
+
